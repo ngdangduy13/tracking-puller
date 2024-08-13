@@ -1,0 +1,13 @@
+2024/08/08-15:47:26.190 2a10b Reusing MANIFEST /Users/duynguyen/Documents/new-port/tracking-puller/chrome-profiles/test/Default/IndexedDB/https_t.17track.net_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/08-15:47:26.190 2a10b Recovering log #14
+2024/08/08-15:47:26.190 2a10b Reusing old log /Users/duynguyen/Documents/new-port/tracking-puller/chrome-profiles/test/Default/IndexedDB/https_t.17track.net_0.indexeddb.leveldb/000014.log 
+2024/08/08-15:47:26.308 b203 Level-0 table #19: started
+2024/08/08-15:47:26.308 b203 Level-0 table #19: 799 bytes OK
+2024/08/08-15:47:26.309 b203 Delete type=0 #14
+2024/08/08-15:47:26.309 8c03 Manual compaction at level-0 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at '\x00\x09\x00\x00\x05' @ 285 : 1
+2024/08/08-15:47:26.309 8c03 Compacting 1@0 + 1@1 files
+2024/08/08-15:47:26.309 8c03 Generated table #20@0: 90 keys, 2309 bytes
+2024/08/08-15:47:26.309 8c03 Compacted 1@0 + 1@1 files => 2309 bytes
+2024/08/08-15:47:26.309 8c03 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/08/08-15:47:26.309 8c03 Delete type=2 #19
+2024/08/08-15:47:26.309 2a10b Manual compaction at level-0 from '\x00\x09\x00\x00\x05' @ 285 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)

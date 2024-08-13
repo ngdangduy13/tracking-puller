@@ -1,0 +1,5 @@
+2024/08/08-15:46:01.910 19d27 Reusing MANIFEST /Users/duynguyen/Documents/new-port/tracking-puller/chrome-profiles/test/Default/IndexedDB/https_t.17track.net_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/08-15:46:01.911 19d27 Recovering log #14
+2024/08/08-15:46:01.911 19d27 Reusing old log /Users/duynguyen/Documents/new-port/tracking-puller/chrome-profiles/test/Default/IndexedDB/https_t.17track.net_0.indexeddb.leveldb/000014.log 
+2024/08/08-15:46:01.911 19d27 Delete type=2 #12
+2024/08/08-15:46:02.019 a40b Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
